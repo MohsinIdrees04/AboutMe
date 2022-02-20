@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @MohsinAdrees
-- 👀 Former Graphic Designer
-- 🌱 Currently learning Frontend Development
-- 💞️ I’m looking for.... well Internship at this Point ...
-- 📫 Say Hello - mohsinrmcf@gmail.com
+- 👋 Hi, I’m Mohsin Idrees
+- 🎨 Former Graphic Designer with 4 Year experience in Graphic & Web UI Designs
+- 📙 Currently learning Frontend Development
+- 💞️ I’m looking for.... well Internship at this Point...
+- 📫 Wanna Contact? mohsinrmcf@gmail.com
 
 💻 — Skills and Tools Currently Learning<br><br>
 <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/git.svg" width="28">
