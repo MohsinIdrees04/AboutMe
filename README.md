@@ -5,7 +5,7 @@ Hi there 👋
 - 📙 Currently learning Frontend Development
 - 💞️ I’m looking for.... well Internship at this Point!
 - 📫 mohsinrmcf@gmail.com
-https://github.com/codingknite/codingknite/blob/main/programming.gif
+
 💻 — Skills and Tools Currently Learning<br><br>
 <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/git.svg" width="28">
 <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/html5.svg" width="28">
