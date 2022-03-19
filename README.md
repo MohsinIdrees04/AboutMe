@@ -1,9 +1,11 @@
-- 👋 Hi, I’m Mohsin Idrees from Pakistan
-- 🎨 Former Graphic Designer with 4 Year experience in Graphic & Web UI Designs
-- 📙 Currently learning Frontend Development
-- 💞️ I’m looking for.... well Internship at this Point...
-- 📫 mohsinrmcf@gmail.com
+Hi there 👋
 
+- 👋 Hi, I’m Mohsin Idrees from Pakistan
+- 🎨 Graphic Designer with 4 Year experience in Graphic Designs!
+- 📙 Currently learning Frontend Development
+- 💞️ I’m looking for.... well Internship at this Point!
+- 📫 mohsinrmcf@gmail.com
+https://github.com/codingknite/codingknite/blob/main/programming.gif
 💻 — Skills and Tools Currently Learning<br><br>
 <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/git.svg" width="28">
 <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/html5.svg" width="28">
